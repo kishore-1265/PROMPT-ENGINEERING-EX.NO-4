@@ -44,6 +44,9 @@ Prompt Size Limitations:
 → Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
+Output:
+[prompt 04.docx](https://github.com/user-attachments/files/24360702/prompt.04.docx)
+
 
 
 
